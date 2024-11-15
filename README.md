@@ -1,6 +1,6 @@
 # Hybrid Frequency Modulation Network for Image Restoration [IJCAI'24]
 
-[supplementary material, visual results, and models can be found here](https://drive.google.com/drive/folders/1qOkuV3jNBcqIZpFi1TfjJht15gHN9AnD?usp=sharing)
+[supplementary material, visual results, and models can be found here](https://drive.google.com/drive/folders/1HsYsu5MVBba8Tu_4JXfXt_inEiX2AgEM?usp=sharing)
 
 ## Installation
 The project is built with PyTorch 3.8, PyTorch 1.8.1. CUDA 10.2, cuDNN 7.6.5
